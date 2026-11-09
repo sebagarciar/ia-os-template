@@ -1,0 +1,6 @@
+budget
+launch
+python
+SQL
+pricing
+negotiation

@@ -1,0 +1,10 @@
+{
+ "companies": [
+  {
+   "company": "Example Co",
+   "board": "greenhouse",
+   "slug": "example",
+   "why": "replace with companies whose job boards you want read directly"
+  }
+ ]
+}

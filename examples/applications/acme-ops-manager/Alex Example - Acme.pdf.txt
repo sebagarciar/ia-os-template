@@ -1,0 +1,18 @@
+ALEX EXAMPLE
+Springfield | alex@example.com | +00 000 000 000 | example.com
+Citizen
+Professional Summary
+Operations manager with 5 years running a three-city marketplace. Owned a $2M monthly budget and led a loyalty launch
+that grew active drivers 10% a month.
+Education
+EXAMPLE UNIVERSITY SPRINGFIELD
+BSc Industrial Engineering June 2018
+Professional Experience
+NORTHWIND MOBILITY SPRINGFIELD
+Technology, $5bn revenue
+Operations Manager March 2021 - June 2025
+• Owned a $2M monthly budget for driver incentives across 3 cities.
+• Led the launch of a loyalty program with Legal and Product, reaching 10% monthly growth in active drivers.
+• Rebuilt the incentive thresholds with a regression model, cutting cost per active driver by 12%.
+• Automated the weekly ops report in Python, saving 6 hours a week for a team of 8.
+• Renegotiated a vehicle lease agreement, raising fleet size from 50 to 200.

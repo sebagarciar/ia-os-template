@@ -1,0 +1,22 @@
+{
+  "name": "ALEX EXAMPLE",
+  "contact": ["Springfield | alex@example.com | +00 000 000 000 | example.com", "Citizen"],
+  "sections": [
+    {"heading": "Professional Summary", "type": "paragraph",
+     "text": "Operations manager with 5 years running a three-city marketplace. Owned a $2M monthly budget and led a loyalty launch that grew active drivers 10% a month."},
+    {"heading": "Education", "type": "entries", "entries": [
+      {"org": "Example University", "loc": "Springfield", "detail": "BSc Industrial Engineering", "dates": "June 2018"}
+    ]},
+    {"heading": "Professional Experience", "type": "entries", "entries": [
+      {"org": "Northwind Mobility", "loc": "Springfield", "desc": "Technology, $5bn revenue",
+       "role": "Operations Manager", "dates": "March 2021 - June 2025",
+       "bullets": [
+        "Owned a **$2M monthly budget** for driver incentives across 3 cities.",
+        "Led the launch of a loyalty program with Legal and Product, reaching **10% monthly growth** in active drivers.",
+        "Rebuilt the incentive thresholds with a regression model, cutting cost per active driver by **12%**.",
+        "Automated the weekly ops report in Python, saving **6 hours a week** for a team of 8.",
+        "Renegotiated a vehicle lease agreement, raising fleet size from **50 to 200**."
+       ]}
+    ]}
+  ]
+}

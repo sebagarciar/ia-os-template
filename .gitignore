@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+job_search/daily-scan/state/
+job_search/daily-scan/runs/
+job_search/daily-scan/reports/
+.claude/worktrees/
